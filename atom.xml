@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://porterOfCode.github.io</id>
     <title>Gridea</title>
-    <updated>2020-08-15T02:05:57.218Z</updated>
+    <updated>2020-08-15T02:09:29.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://porterOfCode.github.io"/>
     <link rel="self" href="https://porterOfCode.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://porterOfCode.github.io/images/avatar.png</logo>
     <icon>https://porterOfCode.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[虚拟机显示不出来共享目录]]></title>
+        <id>https://porterOfCode.github.io/post/xu-ni-ji-xian-shi-bu-chu-lai-gong-xiang-mu-lu</id>
+        <link href="https://porterOfCode.github.io/post/xu-ni-ji-xian-shi-bu-chu-lai-gong-xiang-mu-lu">
+        </link>
+        <updated>2020-08-15T02:08:52.000Z</updated>
+        <content type="html"><![CDATA[<p>在虚拟机中执行以下命令:
+vmhgfs-fuse /mnt/hgfs/
+重新打开终端就OK了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://porterOfCode.github.io/post/hello-gridea</id>
